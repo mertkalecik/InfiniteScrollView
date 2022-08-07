@@ -48,3 +48,22 @@ Mert Kalecik
 
 * v1.0.0
   * Initial Release
+
+## Add it in your root build.gradle
+
+```
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
+	}
+}
+```
+
+## Add the dependency for InfiniteScrollView
+
+```
+	dependencies {
+	        implementation 'com.github.mertkalecik:InfiniteScrollView:1.0.0'
+	}
+```
