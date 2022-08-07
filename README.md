@@ -31,7 +31,7 @@ Infinite Scroll Banner implementation with InfiniteScrollView.
     implementation "io.coil-kt:coil-compose"
 
 # Sample
-The sample application is implemented for the show how to use infinite scrool view framework. Please check app/com.mertkalecik.infinitescroolview.
+The sample application is implemented for the show how to use infinite scrool view framework. Please check app/com.github.mertkalecik.infinitescroolview.
 
 # Sample App Design 
 | Forward | Backward |
