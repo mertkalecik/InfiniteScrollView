@@ -13,9 +13,9 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.unit.dp
 import coil.compose.rememberAsyncImagePainter
-import com.github.mertkalecik.infinitescrollview.InfiniteScrollView
 import com.github.mertkalecik.sample.data.State
 import com.github.mertkalecik.sample.data.entity.BannerUIModel
+import com.mertkalecik.infinitescrollview.InfiniteScrollView
 
 @Composable
 fun BannerView(
