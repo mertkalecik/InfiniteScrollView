@@ -10,6 +10,14 @@ Infinite Scroll Banner implementation with InfiniteScrollView.
 * Coroutine
 * Kotlin
 
+# Sample
+The sample application is implemented for the show how to use infinite scrool view framework. Please check app/com.github.mertkalecik.infinitescroolview.
+
+# Sample App Design 
+| Forward | Backward |
+| ------ | ------ |
+| ![isv_1](https://user-images.githubusercontent.com/38656031/183303623-a7e43a6d-9b6b-4588-9028-a948a247f2d5.gif)| ![isv3](https://user-images.githubusercontent.com/38656031/183303639-891a8bad-6687-45bc-8e64-4a7881225908.gif)|
+
 ### Dependencies
 ** Lifecycle\
     implementation "androidx.fragment:fragment-ktx"\
@@ -29,14 +37,6 @@ Infinite Scroll Banner implementation with InfiniteScrollView.
     
  ** Coil\
     implementation "io.coil-kt:coil-compose"
-
-# Sample
-The sample application is implemented for the show how to use infinite scrool view framework. Please check app/com.github.mertkalecik.infinitescroolview.
-
-# Sample App Design 
-| Forward | Backward |
-| ------ | ------ |
-| ![isv_1](https://user-images.githubusercontent.com/38656031/183303623-a7e43a6d-9b6b-4588-9028-a948a247f2d5.gif)| ![isv3](https://user-images.githubusercontent.com/38656031/183303639-891a8bad-6687-45bc-8e64-4a7881225908.gif)|
 
 ## Contributors
 Mert Kalecik
